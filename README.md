@@ -1,6 +1,6 @@
 Github for material masks for skyrim textures, feel free to submit a pr with any masks you want to contribute.
 
-The paths work by follows the texture path, with a final folder for the texture itself where the masks will go in.
+The paths work by following the texture path, with a final folder for the texture itself where the masks will go in.
 
 Please make it clear what each thing the masks are for (name it something like mask_nails, mask_wood)
 
